@@ -6,7 +6,7 @@
   <p>Desarrollador con 5 años de experiencia enfocado en el rediseño y optimización de plataformas bajo estándares <b>OWASP Top 10</b>.</p>
 
 <p align="center">
-    <a href="https://danielcastronuevo.github.io/Portfolio/" target="_blank">
+    <a href="https://dacastronuevo.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
     </a>
     <a href="https://www.linkedin.com/in/dacastronuevo/" target="_blank">
