@@ -23,15 +23,10 @@
 ---
 
 ### 👨🏻‍💻 Stack Tecnológico
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,php,nodejs,react,express,nextjs,aws,linux,git,github,docker,mysql,wordpress,postman,vite,workers&perline=10" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,php,nodejs,react,express,nextjs,threejs,aws,linux,arch,bash,vim,vscode,visualstudio,docker,mysql,wordpress,npm,postman,vite,workers,raspberrypi,redhat,obsidian&perline=10" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,php,nodejs,react,express,nextjs,threejs,aws,linux,arch,bash,vim,vscode,visualstudio,docker,mysql,wordpress,npm,postman,vite,raspberrypi,obsidian&perline=10" />
   </a>
 </p>
 
