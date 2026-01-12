@@ -1,4 +1,4 @@
-# ## Hola, soy <a target="_blank" href="https://danielcastronuevo.github.io/Portfolio/">Daniel Castronuevo</a> 👋
+## Hola, soy <a target="_blank" href="https://danielcastronuevo.github.io/Portfolio/">Daniel Castronuevo</a> 👋
 
 ### Desarrollador Full Stack & Especialista en Ciberseguridad 🛡️
 
