@@ -55,6 +55,12 @@ Desarrollador Full Stack con 5 años de experiencia y soporte IT, especializado 
 
 ---
 
+## 📊 Mis Estadísticas
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcastronuevo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dacastronuevo&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacastronuevo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
