@@ -37,19 +37,19 @@
 ### 🤝 Contacto & Enlaces
 <p align="center">
   <a href="https://www.linkedin.com/in/dacastronuevo/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="55" alt="linkedin" />
   </a>
   <a href="https://danielcastronuevo.github.io/Portfolio/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23222222.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="portfolio" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="55" height="55" alt="portfolio" />
   </a>
   <a href="https://drive.google.com/file/d/18x2Q1GdgLzB8zFVonBmAz4vrKa6JLcE6/view?usp=sharing" target="blank">
-    <img src="https://img.shields.io/badge/Currículum-%23FF5722.svg?style=for-the-badge&logo=googledrive&logoColor=white" alt="cv" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/google-drive/default.svg" width="55" height="55" alt="cv" />
   </a>
   <a href="mailto:castronuevodanielalejandro@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="email" />
   </a>
   <a href="https://wa.me/5491127528837" target="blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="55" alt="whatsapp" />
   </a>
 </p>
 
