@@ -1,4 +1,4 @@
-## Hola, soy <a href="https://danielcastronuevo.github.io/Portfolio/">Daniel</a> 👋
+## Hola, soy <a target="_blank" href="https://danielcastronuevo.github.io/Portfolio/">Daniel</a> 👋
 
 <!--
 **danielcastronuevo/danielcastronuevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
