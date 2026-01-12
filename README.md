@@ -29,6 +29,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,php,nodejs,react,express,nextjs,threejs,aws,linux,arch,bash,vim,vscode,visualstudio,docker,mysql,wordpress,npm,postman,vite,workers,raspberrypi,redhat,obsidian&perline=10" />
+  </a>
+</p>
+
 > **Habilidades Adicionales:** OWASP Top 10, Pentesting, RESTful APIs, WebSockets, Plesk, TiendaNube, Perfit, Hosting & Deployment.
 
 ---
