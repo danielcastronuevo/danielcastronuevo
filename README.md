@@ -1,8 +1,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h1>Hi 👋, I'm Daniel Castronuevo</h1>
-  <h3>Full Stack Developer & Cybersecurity Specialist 🛡️</h3>
+  <h1>Hola 👋, soy Daniel Castronuevo</h1>
+  <h3>Desarrollador Full Stack enfocado en Ciberseguridad 🛡️</h3>
   <p>Desarrollador con 5 años de experiencia enfocado en el rediseño y optimización de plataformas bajo estándares <b>OWASP Top 10</b>.</p>
 </div>
 
