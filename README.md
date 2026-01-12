@@ -6,7 +6,7 @@ Desarrollador Full Stack con 5 años de experiencia y soporte IT, especializado 
 
 ---
 
-## 🔗 Conexiones Profesionales
+## 🔗 Zona de contacto:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dacastronuevo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB)](https://danielcastronuevo.github.io/Portfolio/)
