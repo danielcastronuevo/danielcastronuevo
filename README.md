@@ -36,27 +36,19 @@
 
 ### 🤝 Contacto & Enlaces
 <p align="center">
-  <a href="https://www.linkedin.com/in/dacastronuevo/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="55" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/dacastronuevo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://danielcastronuevo.github.io/Portfolio/" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/website/default.svg" width="55" height="55" alt="portfolio" />
+  <a href="https://danielcastronuevo.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio" />
   </a>
-  <a href="https://drive.google.com/file/d/18x2Q1GdgLzB8zFVonBmAz4vrKa6JLcE6/view?usp=sharing" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/google-drive/default.svg" width="55" height="55" alt="cv" />
+  <a href="https://drive.google.com/file/d/18x2Q1GdgLzB8zFVonBmAz4vrKa6JLcE6/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Currículum-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
   </a>
-  <a href="mailto:castronuevodanielalejandro@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="55" alt="email" />
+  <a href="mailto:castronuevodanielalejandro@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/5491127528837" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="55" height="55" alt="whatsapp" />
+  <a href="https://wa.me/5491127528837" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dacastronuevo&color=0077b5&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
