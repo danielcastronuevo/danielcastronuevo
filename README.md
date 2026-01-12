@@ -52,11 +52,3 @@ Desarrollador Full Stack con 5 años de experiencia y soporte IT, especializado 
 ![TiendaNube](https://img.shields.io/badge/TiendaNube-00AEEF?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
----
-
-## 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielcastronuevo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
